@@ -120,7 +120,5 @@ lector1.prestarPublicacion(libro1);
 lector1.prestarPublicacion(revista1);
 lector2.prestarPublicacion(libro1);
 
-console.log(revista1.mostrarInfo());
-
 lector1.mostrarHistorial();
 lector2.mostrarHistorial();
